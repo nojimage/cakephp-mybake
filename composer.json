@@ -1,5 +1,5 @@
 {
-    "name": "nojimage/cakephp-my-bake",
+    "name": "nojimage/cakephp-mybake",
     "description": "Custom Bake Template for CakePHP",
     "type": "cakephp-plugin",
     "require": {
