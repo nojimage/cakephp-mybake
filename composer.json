@@ -2,6 +2,7 @@
     "name": "nojimage/cakephp-mybake",
     "description": "Custom Bake Template for CakePHP",
     "type": "cakephp-plugin",
+    "license": "MIT",
     "require": {
         "cakephp/cakephp": "^3.4"
     },
