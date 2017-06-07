@@ -1,5 +1,8 @@
 # Custom Bake Template for CakePHP 3.x
 
+- Table: Support `created_at`,` updated_at` column, set the Timestamp behavior.
+- Entity: Support database column comment, append the comments to `@property`.
+
 ## Installation
 
 You can install this plugin into your CakePHP application using [composer](http://getcomposer.org).
