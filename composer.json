@@ -1,0 +1,22 @@
+{
+    "name": "nojimage/cakephp-my-bake",
+    "description": "Custom Bake Template for CakePHP",
+    "type": "cakephp-plugin",
+    "require": {
+        "cakephp/cakephp": "^3.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7|^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyBake\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MyBake\\Test\\": "tests",
+            "Cake\\Test\\": "./vendor/cakephp/cakephp/tests"
+        }
+    }
+}
